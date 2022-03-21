@@ -1,0 +1,255 @@
+* {
+    font-family: 'Inconsolata', sans-serif;
+    box-sizing: border-box;
+}
+
+#bizname {
+    font-family: 'Festive', sans-serif;
+}
+
+.ul {
+    text-align: center;
+}
+
+main {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdm0qx8t0i9gc9.cloudfront.net%2Fthumbnails%2Fvideo%2FSFp1bALngj0sessj8%2Fvideoblocks-sensual-flirty-young-mixed-race-female-model-with-blond-red-afro-hair-in-a-long-beige-trenchcoat-on-white-background_s_axpnzaw_thumbnail-1080_01.png&f=1&nofb=1");
+    background-size: cover;
+    height: 800px;
+    color: white;
+    padding: 25px 0 25px 100px;
+}
+
+li {
+    display: inline-block;
+}
+
+.icon {
+    height: 20px;
+}
+
+.icon2 {
+    height: 55px;
+}
+
+.bookOL {
+    color: black;
+    background-color: white;
+    border: 2px white solid;
+    padding: 15px 10px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 40px;
+}
+
+#firstvis {
+    background-color: black;
+    height: 350px;
+    width: 300px;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-left: 20px;
+    margin-top: 50px;
+}
+
+.discount {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+#hours {
+    float: right;
+    transform: rotate(90deg);
+    padding-left: 300px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 100px;
+    width: 45%;
+    word-wrap: break-word;
+}
+
+h2.bookOL {
+    float: right;
+    position: absolute;
+    top: 0;
+    right: 30px;
+}
+
+.blkbutton {
+    background: black;
+    padding: 10px 20px;
+    margin-top: 50px;
+    color: white;
+}
+
+#headnav {
+    position: absolute;
+    top: 0;
+    left: 40%;
+}
+
+main > h1 + span {
+    margin-bottom: 50px;
+}
+
+#perks {
+    height: 300px;
+    margin-top: 50px;
+    padding: 0 50px;
+}
+
+.services {
+    width: 30%;
+    text-align: center;
+    float: left;
+    margin: 30px 10px;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+#momentum {
+    background-color: #fff2cc;
+    height: 400px;
+}
+
+#momen {
+    width: 50%;
+    float: left;
+    padding-left: 150px;
+    padding-top: 60px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+#blkbuttonmomentum {
+    float: left;
+}
+
+#vid {
+    float: right;
+    margin-right: 150px;
+    margin-top: 70px;
+}
+
+#cutters {
+    display: flex;
+    justify-content: center;
+}
+
+.artist {
+    height: 250px;
+    width: auto;
+}
+
+#dailydeal {
+    height: 600px;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.wallpapers4u.org%2Fwp-content%2Fuploads%2Fhair_model_style_clothing_86370_1920x1080.jpg&f=1&nofb=1);
+    background-size: cover;
+}
+
+#offer {
+    height: 400px;
+    width: 50%;
+    color: white;
+    font-size: 30px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+#lookbook {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 250px;
+}
+
+.bigpic {
+    height: 500px;
+    width: 300px;
+}
+
+.smallpic {
+    height: 300px;
+    width: 300px;
+}
+
+.lkbk {
+    width: 33.333%;
+    margin: 10px;
+}
+
+h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    text-decoration: none;
+    color: black;
+}
+
+#contactUs {
+    height: 350px;
+    background-color: #fff2cc;
+    padding-top: 10px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#info {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.inputLabel {
+    margin-left: auto;
+    text-align: center;
+}
+
+#comment {
+    height: 100px;
+    width: 500px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+
+button {
+    height: 40px;
+    width: 100px;
+    margin-left: 45%;
+    margin-right: auto;
+}
+
